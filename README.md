@@ -1,11 +1,10 @@
 # GooglePlay
 Jsf kullanarak yaptığımız proje ödevi
 
-Avukatın müvekkilden aldığı bilgiler doğrultusunda gerek işlemleri(dava ve müvekkil ekleme,silme,güncelleme ve çıkarma) gerçekleştiren, dosya oluşumunu yapan ve sürecin bitmesi durumunda gereken davayı güncelleyen avukat büro otomasyon sistemidir.
-Avukat Büro Otomasyonu
+
 
 A.Faruk Pala     02180201008
-Cecher Geşgin   02180201083
+Cevher Geşgin   02180201083
 M. Şerif  ---
 
 Admin Girişi İçin
