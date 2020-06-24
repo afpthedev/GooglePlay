@@ -5,7 +5,7 @@ Jsf kullanarak yaptığımız proje ödevi
 
 A.Faruk Pala     02180201008
 Cevher Geşgin   02180201083
-M. Şerif  ---
+M. Şerif   Dal 02180001506
 
 Admin Girişi İçin
 User_name=root;
