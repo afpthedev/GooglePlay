@@ -1,5 +1,5 @@
 # GooglePlay
-Jsf kullanarak yaptığımız proje ödevi
+Jsf kullanarak yaptığımız proje
 
 
 
