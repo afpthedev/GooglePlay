@@ -1,5 +1,5 @@
 # GooglePlay
-Jsf kullanarak yaptığımız proje
+Jsf,SQL,JAVA,HTML,CSS kullanarak yaptığımız Google Play çalışmasıdır.
 
 
 
